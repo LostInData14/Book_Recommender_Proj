@@ -1,0 +1,12 @@
+# Ignore virtual environments
+myvenv/
+venv/
+
+
+# Ignore model files
+*.pkl
+
+# Ignore other stuff
+__pycache__/
+*.pyc
+.env
